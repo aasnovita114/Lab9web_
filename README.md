@@ -172,6 +172,6 @@ $result = mysqli_query($conn, $sql);
 ```
 ![Screenshot 2023-12-09 121217](https://github.com/aasnovita114/Lab9web_/assets/116045324/0c35d96b-654f-4aba-9e46-4ad72a92881a)
 
-# TeimaKasih:)
+# TerimaKasih:)
 
 
